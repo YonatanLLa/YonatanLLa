@@ -13,13 +13,13 @@
 const Yonatan = {
   pronouns: 'he' || 'him',
   code: {
-      languages: [ "JavaScript", "TypeScript" ],
+      languages: [ "JavaScript", "TypeScript", "Java" ],
       database: ["PostgreSQL" ],
-      backEnd: [ "NodeJs", "Express", "Sequelize"],
-      frontEnd: [ "React", "Redux", "Next", "Talwind", "CSS modules" ],
+      backEnd: [ "NodeJs", "NestJs"],
+      frontEnd: [ "React", "Next", "Vue Js" ],
         },
   contact: {
-      email: "yonatanllanto175@gmail.com"
+      email: "yonatdev@gmail.com"
       }
 };
 ```
